@@ -1,0 +1,137 @@
+Started by user [8mha:////4D1Cn1zi8TyCmHov/gGzlWBOeYtSccIWZx3mix20ZOxCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4BNz/KkMaI8klxbharzYhLMs2kyzW+inZd4l8EYUG6V2AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4JMY+DyXiX9qcLE/YM3NsFEuP+O6r/dtDCP+uiXwCWX0AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4M+6IBaDSZ5RP1hxR0ZmReQCyDK10wE8cDqLAN9fsumtAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /var/jenkins_home/workspace/smoke-test
+[8mha:////4CCowNihrS+hGrQ0UU2TJnCjl4mPElXOhh0apTKhGFx/AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4AqbP079fMXImKIWkauk38q+3hjXPrj88h5GMd8gADcAAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4EGNLjsfRndxRVW3GGHxblRhtWD2krGVTOvo0Qvub4nFAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Checkout)
+[8mha:////4NeOX0y/SsQpHCDWfljowjUof/Gt3qNT/jRlf4n9HsVGAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/jenkins_home/workspace/smoke-test/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Svitskyi/testcafe-docker.git # timeout=10
+Fetching upstream changes from https://github.com/Svitskyi/testcafe-docker.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/Svitskyi/testcafe-docker.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision e50bb975d1f27aa2c38ab4c2b8b82069b0b1e521 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f e50bb975d1f27aa2c38ab4c2b8b82069b0b1e521 # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git branch -D master # timeout=10
+ > git checkout -b master e50bb975d1f27aa2c38ab4c2b8b82069b0b1e521 # timeout=10
+Commit message: "setting latest tag"
+ > git rev-list --no-walk e50bb975d1f27aa2c38ab4c2b8b82069b0b1e521 # timeout=10
+[8mha:////4C1xYEpqvMLdH9pCQAXeXMmIRRUI8cyxzTvWiea+/20/AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4BkbA3Q+B6eK/b/nb2fE5UtDfzrG1nGiZKUps7j3NcNOAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4KJqvn7lANco7fGUzPpLtUf9pdDt7eSJBuy3BAEt5GMkAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4L7ihOiPXDqJiIQGHPTXOsZrVaeNX2RYB6YkJBxHnYgsAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (Build)
+[8mha:////4AyOff4SzGWV/Cwr519uTrG2+bbZnbQ1W+M0cBXua7Z1AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] sh
++ mvn clean install
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m---------------------< [0;36mcom.test:testcafe-example[0;1m >----------------------[m
+[[1;34mINFO[m] [1mBuilding testcafe-example 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;34mINFO[m] Deleting /var/jenkins_home/workspace/smoke-test/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /var/jenkins_home/workspace/smoke-test/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /var/jenkins_home/workspace/smoke-test/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.12.4:test[m [1m(default-test)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;34mINFO[m] No tests to run.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-jar-plugin:2.4:jar[m [1m(default-jar)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;33mWARNING[m] JAR will be empty - no content was marked for inclusion!
+[[1;34mINFO[m] Building jar: /var/jenkins_home/workspace/smoke-test/target/testcafe-example-0.0.1-SNAPSHOT.jar
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mdockerfile-maven-plugin:1.4.13:build[m [1m(default)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;34mINFO[m] dockerfile: null
+[[1;34mINFO[m] contextDirectory: /var/jenkins_home/workspace/smoke-test
+[[1;34mINFO[m] Building Docker context /var/jenkins_home/workspace/smoke-test
+[[1;34mINFO[m] Path(dockerfile): null
+[[1;34mINFO[m] Path(contextDirectory): /var/jenkins_home/workspace/smoke-test
+[[1;34mINFO[m] 
+[[1;34mINFO[m] Image will be built as testcafe-example:latest
+[[1;34mINFO[m] 
+[[1;34mINFO[m] Step 1/8 : FROM testcafe/testcafe:latest
+[[1;34mINFO[m] 
+[[1;34mINFO[m] Pulling from testcafe/testcafe
+[[1;34mINFO[m] Digest: sha256:b399f065ef86ae4c0108d90725d598cdc489ef9225a609f86002b45e12a64726
+[[1;34mINFO[m] Status: Image is up to date for testcafe/testcafe:latest
+[[1;34mINFO[m]  ---> 2df1ab046943
+[[1;34mINFO[m] Step 2/8 : ADD smoke.test.js .
+[[1;34mINFO[m] 
+[[1;34mINFO[m]  ---> Using cache
+[[1;34mINFO[m]  ---> 0d7c2698fba9
+[[1;34mINFO[m] Step 3/8 : ADD package.json .
+[[1;34mINFO[m] 
+[[1;34mINFO[m]  ---> Using cache
+[[1;34mINFO[m]  ---> 7aa7bf372613
+[[1;34mINFO[m] Step 4/8 : ADD testcafe.json .
+[[1;34mINFO[m] 
+[[1;34mINFO[m]  ---> Using cache
+[[1;34mINFO[m]  ---> 9abd65c98f98
+[[1;34mINFO[m] Step 5/8 : ENV SELENIUM_SERVER=http://selenium-hub:4444/wd/hub
+[[1;34mINFO[m] 
+[[1;34mINFO[m]  ---> Using cache
+[[1;34mINFO[m]  ---> a775f26aecc0
+[[1;34mINFO[m] Step 6/8 : USER root
+[[1;34mINFO[m] 
+[[1;34mINFO[m]  ---> Using cache
+[[1;34mINFO[m]  ---> 41a8a0a9d60a
+[[1;34mINFO[m] Step 7/8 : RUN npm install
+[[1;34mINFO[m] 
+[[1;34mINFO[m]  ---> Using cache
+[[1;34mINFO[m]  ---> ec0c6b3b4043
+[[1;34mINFO[m] Step 8/8 : ENTRYPOINT npm test
+[[1;34mINFO[m] 
+[[1;34mINFO[m]  ---> Using cache
+[[1;34mINFO[m]  ---> 6af25887e8c2
+[[1;34mINFO[m] Successfully built 6af25887e8c2
+[[1;34mINFO[m] Successfully tagged testcafe-example:latest
+[[1;34mINFO[m] 
+[[1;34mINFO[m] Detected build of image with id 6af25887e8c2
+[[1;34mINFO[m] Building jar: /var/jenkins_home/workspace/smoke-test/target/testcafe-example-0.0.1-SNAPSHOT-docker-info.jar
+[[1;34mINFO[m] Successfully built testcafe-example:latest
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-install-plugin:2.4:install[m [1m(default-install)[m @ [36mtestcafe-example[0;1m ---[m
+[[1;34mINFO[m] Installing /var/jenkins_home/workspace/smoke-test/target/testcafe-example-0.0.1-SNAPSHOT.jar to /root/.m2/repository/com/test/testcafe-example/0.0.1-SNAPSHOT/testcafe-example-0.0.1-SNAPSHOT.jar
+[[1;34mINFO[m] Installing /var/jenkins_home/workspace/smoke-test/pom.xml to /root/.m2/repository/com/test/testcafe-example/0.0.1-SNAPSHOT/testcafe-example-0.0.1-SNAPSHOT.pom
+[[1;34mINFO[m] Installing /var/jenkins_home/workspace/smoke-test/target/testcafe-example-0.0.1-SNAPSHOT-docker-info.jar to /root/.m2/repository/com/test/testcafe-example/0.0.1-SNAPSHOT/testcafe-example-0.0.1-SNAPSHOT-docker-info.jar
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  2.851 s
+[[1;34mINFO[m] Finished at: 2021-11-20T13:28:36Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4IKvpAlpesvCgX8h0du7pG76YQu65iUTFGd8Gkci8h4AAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzN4nqNv9p9o3geV5574AAAA=[0m[Pipeline] }
+[8mha:////4Ie+g7W2SaRXuTcH88aHcKZFff10WAh2R2GL6sOcdlncAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bq/le42+AAAA[0m[Pipeline] // stage
+[8mha:////4HM1ekjhCSZ0bmjP/OCcRXdm/Bur3O6V3xK5+o3mk+H8AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJKgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvBXXnAcEAAAA=[0m[Pipeline] stage
+[8mha:////4CEbeeqUn5GVbX8XBIAkvQwKihhoq45B42ct6Gxsz5+uAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] { (Run)
+[8mha:////4OtoblTA6AYuMdUESeIsO3GS03XB6E4WpKMJ3rTLlWfdAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGigQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN27Iu42+AAAA[0m[Pipeline] sh
++ docker run testcafe-example:latest
+/var/jenkins_home/workspace/smoke-test@tmp/durable-d15e8b72/script.sh: 1: docker: not found
+[8mha:////4EquuKdzebnPE87VoovNNUlOqTYLe2XzOHv/VAty3IlDAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGoSEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQHhgNoTvgAAAA==[0m[Pipeline] }
+[8mha:////4BDqC5BRUwzwUR8oB1N+EZV5sMX7PgDQJhIf9psgcN84AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCgqEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQH+Ao9BvgAAAA==[0m[Pipeline] // stage
+[8mha:////4JeNvWkshdSg702th/oXKhfN9xJXrxfn3FM2/7zMZz+2AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBiA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8BK1nRVL0AAAA=[0m[Pipeline] }
+[8mha:////4M3eiDMfb8RQflsS/DYffZRQ1GpCIh8XVZFAfrnw1C/TAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny3VaQ7T845dX3vQAAAA==[0m[Pipeline] // node
+[8mha:////4CSqbBJYYYZyh707ZAuJrIlaua5585LmvyG3+jPuH6qCAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkrMbJtWHxCyrUWmjeg/YhTH6Rv+Y/SCRx8k73nOW83timiBNHp1pLnadUe9WH0S1PTRy7W+BJtXxVNVPiYFVlp4obe16xYrFYl+XYaOws1YGTJyfY69Y8TBEMueIicXFHjdw3A57I9FIWE+ULc8ThPjaJ6df5G8Dc94K8LAVZ+QF+r3LHvQAAAA==[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 127
+Finished: FAILURE

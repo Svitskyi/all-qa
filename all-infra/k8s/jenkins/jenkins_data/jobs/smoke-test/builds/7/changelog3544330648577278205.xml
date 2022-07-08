@@ -1,0 +1,10 @@
+commit e50bb975d1f27aa2c38ab4c2b8b82069b0b1e521
+tree 17d6f423a3808835aa78e505788d973f01d15571
+parent 452339125d871be0db04d5517d4c1ea2a4751e8c
+author svitskyi <oleg.svitskyi@protonmail.ch> 2021-11-20 14:22:00 +0100
+committer svitskyi <oleg.svitskyi@protonmail.ch> 2021-11-20 14:22:00 +0100
+
+    setting latest tag
+
+
+:100644 100644 f5eba81c1ccb339796e444537937591c601d0ca4 8415c6708fecf05fb23393f0f8e088db187da9fa M	pom.xml
